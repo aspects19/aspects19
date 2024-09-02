@@ -2,7 +2,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&random=true&width=435&lines=🟢+A+developer...;🔴+Working+with+JavaScript+frameworks...;🟤+NextJs%2C+React+and+React+Native...;🟠+I'm+passionate+in+making+good+looking+UIs;🔵+Linux+ecosystem+enthusist...;🟣+Pursuing+an+IT+course+in+uni...)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&random=true&width=435&lines=🟢+A+developer...;🔴+Working+with+JavaScript+frameworks...;🟤+NextJs%2C+React+and+React+Native...;🟠+Passionate+in+making+great+UIs;🔵+Linux+ecosystem+enthusist...;🟣+Pursuing+an+IT+course+in+uni...)](https://git.io/typing-svg) 
 
 
 ## 🧑‍💻 Languages
