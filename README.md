@@ -42,5 +42,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aspects19&icon=0&color=0)](https://visitcount.itsvg.in)
 
+ <td align="center" valign="top" width="14.28%"><a href="https://github.com/aspects19"><img src="https://avatars.githubusercontent.com/u/133534815?v=4?s=100" width="100px;" alt="Jeffarson Amenya"/><br /><sub><b>Jeffarson Amenya</b></sub></a><br /><a href="#question-aspects19" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=aspects19" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=aspects19" title="Documentation">📖</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Aaspects19" title="Reviewed Pull Requests">👀</a></td>
+
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aspect) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/americ_inc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aspect) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Aspect) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aspect) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/americ) 
