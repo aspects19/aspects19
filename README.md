@@ -15,15 +15,6 @@
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
   <br>
   <br/>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aspects19&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aspects19&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aspects19&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aspects19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
   
   ## ☁️ Clouds
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
@@ -41,8 +32,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aspects19&icon=0&color=0)](https://visitcount.itsvg.in)
-
- <td align="center" valign="top" width="14.28%"><a href="https://github.com/aspects19"><img src="https://avatars.githubusercontent.com/u/133534815?v=4?s=100" width="100px;" alt="Jeffarson Amenya"/><br /><sub><b>Jeffarson Amenya</b></sub></a><br /><a href="#question-aspects19" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=aspects19" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=aspects19" title="Documentation">📖</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Aaspects19" title="Reviewed Pull Requests">👀</a> <a href="#blog-aspects19" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aaspects19" title="Bug reports">🐛</a> <a href="#business-aspects19" title="Business development">💼</a> <a href="#design-aspects19" title="Design">🎨</a> <a href="#ideas-aspects19" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-aspects19" title="Maintenance">🚧</a> <a href="#talk-aspects19" title="Talks">📢</a> <a href="#translation-aspects19" title="Translation">🌍</a> <a href="#tutorial-aspects19" title="Tutorials">✅</a> <a href="#video-aspects19" title="Videos">📹</a></td>
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aspect) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/americ_inc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aspect) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Aspect) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aspect) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/americ) 
