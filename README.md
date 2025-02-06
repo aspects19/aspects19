@@ -9,7 +9,7 @@
 
 - 👯 I'm looking to collaborate on [CloudServers](https://github.com/aspect19/cloud-servers)
 
-- 👨‍💻 All of my projects are available at [My Web Portfolio](https:jeff-kappa.vercel.app)
+- 👨‍💻 All of my projects are available at My  [Portfolio](https:jeff-kappa.vercel.app)
 
 - 📫 How to reach me **jeffamenya388@gmail.com**
 
