@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/aspects19" alt="Jeffamenya" /> </p>
 
-- 🔭 I’m currently working on [Darajapy](https://github.com/aspects19/darajapy)
+- 🔭 I'm currently working on [Darajapy](https://github.com/aspects19/darajapy)
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I'm currently learning **FastAPI**
 
-- 👯 I’m looking to collaborate on [CloudServers](https://github.com/aspect19/cloud-servers)
+- 👯 I'm looking to collaborate on [CloudServers](https://github.com/aspect19/cloud-servers)
 
 - 👨‍💻 All of my projects are available at [My Web Portfolio](https:jeff-kappa.vercel.app)
 
