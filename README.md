@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on [geminate](https://github.com/aspects19/geminate)
 
-- 🌱 I'm currently learning **FastAPI**
+- 🌱 I'm currently learning **Rust**
 
 - 👯 I'm looking to collaborate on [student-ai ](https://github.com/aspect19/student-ai)
 
