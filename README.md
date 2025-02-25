@@ -1,7 +1,7 @@
 # Hello  <img src= "./assets/gifs/hand-gif.gif" width=30>  I'm Aspect
 <h3 align="center">I am Jeffarson amenya a Telecommunication and IT student passionate in cloud computing and Linux. I love and I'm enthuasted with open source software.</h3>
 
-- 🔭 I'm currently working on [Darajapy](https://github.com/aspects19/darajapy)
+- 🔭 I'm currently working on [geminate](https://github.com/aspects19/geminate)
 
 - 🌱 I'm currently learning **FastAPI**
 
