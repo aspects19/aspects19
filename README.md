@@ -29,8 +29,7 @@ Here are a few highlights from my projects:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aspects19&show_icons=true&theme=transparent" alt="aspect19" /></p>
 <p align="center"> 
-<a href="https://linkedin.com/in/jeffarson-a-55ba872b9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://instagram.com/americ_inc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/jeffarson-a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
 </p>
 
 ----
