@@ -15,7 +15,7 @@
 
 Here are a few highlights from my projects:
 
-- [Weather App](https://github.com/weather-app) - A weather app written in react native that shows current weather and a seven hour focast.
+- [Weather App](https://github.com/weather-app) - A weather app written in react native that shows current weather and a seven-hour focast.
 - [Portfolio](https://github.com/portfolio) - My own developer portfolio website done in React and CSS.
 - [Darajapy](https://github.com/darajapy) - A python wrapper library for Safaricom's Daraja API.
 
