@@ -1,11 +1,11 @@
 # Hello  <img src= "./assets/gifs/hand-gif.gif" width=30>  I'm Aspect
-<h3 align="center">I am Jeff a Telecommunication and IT major passionate in cloud computing and Linux. I love and I'm enthusiastic about open source software.</h3>
+<h3 align="center">I'm a Telecommunication and IT major passionate in cloud computing and Linux. I love and I'm enthusiastic about open source software.</h3>
 
 - 🔭 I'm currently working on [geminate](https://github.com/aspects19/geminate)
 
 - 🌱 I'm currently learning **Rust**
 
-- 👯 I'm looking to collaborate on [student-ai ](https://github.com/aspect19/student-ai)
+- 👯 I'm looking to collaborate on **Open source projects in python, JavaScript and Rust**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https:jeff-kappa.vercel.app)
 
