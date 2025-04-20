@@ -1,4 +1,4 @@
-# Hello  <img src= "./assets/gifs/hand-gif.gif" width=30>  I'm Aspect
+# Hello  <img src= "./assets/gifs/hand-gif.gif" width=30>  I'm Jeff
 <h3 align="center">I'm a Telecommunication and IT major passionate in cloud computing and Linux. I'm enthusiastic about open source software.</h3>
 
 - 🔭 I'm currently working on [geminate](https://github.com/aspects19/geminate)
