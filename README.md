@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https:jeff-kappa.vercel.app)
 
-- 📫 How to reach me **jeffamenya388@gmail.com**
+- 📫 How to reach me **ambezos388@gmail.com**
 
 ## 🚧 Projects
 
