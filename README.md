@@ -7,9 +7,9 @@
 
 - 👯 I'm looking to collaborate on **Open source projects in python, JavaScript and Rust**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https:jeff-kappa.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://amenya.is-a.dev)
 
-- 📫 How to reach me **ambezos388@gmail.com**
+- 📫 How to reach me [**email**](mailto:ambezos388@gmail.com)
 
 ## 🚧 Projects
 
