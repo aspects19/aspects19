@@ -1,6 +1,6 @@
 # Hello <img src= "./assets/gifs/hand-gif.gif" width=30> I'm Jeff
 
-<h3 align="center">I'm a STEM student passionate in cloud computing and Linux. I'm enthusiastic about open source software.</h3>
+<h3 align="center"> Telecommunication engineering student passionate in cloud computing and Linux. Open source software enthusiast.</h3>
 
 - 🔭 I'm currently working on [geminate](https://github.com/aspects19/geminate)
 
