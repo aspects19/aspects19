@@ -8,7 +8,7 @@
 
 - 👯 I'm looking to collaborate on **Open source projects in python, JavaScript and Rust**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://amenya.is-a.dev)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://amenya.dev)
 
 - 📫 How to reach me [**email**](mailto:ambezos388@gmail.com)
 
@@ -16,7 +16,7 @@
 
 Here are a few highlights from my projects:
 
-- [Weather App](https://github.com/aspects19/weather-app) - A weather mobile app written in react native that shows current weather and a seven-hour focast.
+- [Kyru](https://github.com/aspects19/kyru) - A native GTK linux app for arranging and showing images and videos on you workstation.
 - [Portfolio](https://github.com/aspects19/portfolio) - My own developer portfolio website done in React and CSS.
 - [Darajapy](https://github.com/aspects19/darajapy) - A python wrapper library for Safaricom's Daraja API.
 
