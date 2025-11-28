@@ -16,7 +16,7 @@
 
 Here are a few highlights from my projects:
 
-- [Kyru](https://github.com/aspects19/kyru) - A native GTK linux app for arranging and showing images and videos on you workstation.
+- [Kyru](https://github.com/aspects19/kyru) - A native GTK Linux gallery app for arranging and showing images and videos on you workstation.
 - [Portfolio](https://github.com/aspects19/portfolio) - My own developer portfolio website done in React and CSS.
 - [Darajapy](https://github.com/aspects19/darajapy) - A python wrapper library for Safaricom's Daraja API.
 
