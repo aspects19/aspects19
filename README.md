@@ -18,7 +18,7 @@
 Here are a few highlights from my projects:
 
 - [Kyru](https://github.com/aspects19/kyru) - A native GTK Linux gallery app for arranging and showing images and videos on you workstation.
-- [Portfolio](https://github.com/aspects19/portfolio) - My own developer portfolio website done in React and CSS.
+- [Veedy](https://github.com/aspects19/veedy) - A blazing fast all video searcher and downloader Telegram Bot.
 - [Darajapy](https://github.com/aspects19/darajapy) - A python wrapper library for Safaricom's Daraja API.
 
 ## 🧑‍💻 Skill Stack
