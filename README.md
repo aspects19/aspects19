@@ -3,7 +3,7 @@
 <h4 align="center"> Telecommunication major passionate in cloud computing and Linux. <br/>
    Open source software enthusiast.</h4>
 
-- 🔭 I'm currently working on [geminate](https://github.com/aspects19/geminate)
+- 🔭 I'm currently working on [veedy](https://github.com/aspects19/veedy)
 
 - 🌱 I'm currently learning **Rust**
 
