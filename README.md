@@ -27,6 +27,8 @@ Here are a few highlights from my projects:
 
 ## 📊 Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspects19&layout=compact&hide=html&theme=transparent" alt="aspect19" /></p>
+![](https://github-readme-stats.vercel.app/api?username=aspects19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats-eight.vercel.app/?user=aspects19&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aspects19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aspects19&show_icons=true&theme=transparent" alt="aspect19" /></p>
+
