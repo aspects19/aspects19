@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://amenya.dev)
 
-- 📫 How to reach me [**email**](mailto:hello@amenya.dev)
+- 📫 How to reach me [**hello@amenya.dev**](mailto:hello@amenya.dev)
 
 ## 🚧 Projects
 
