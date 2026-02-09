@@ -9,7 +9,7 @@
 
 - 👯 I'm looking to collaborate on **Open source projects in python, JavaScript and Rust**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://amenya.dev)
+- 👨‍💻 All of my projects are available at [amenya.dev](https://amenya.dev)
 
 - 📫 How to reach me [**hello@amenya.dev**](mailto:hello@amenya.dev)
 
