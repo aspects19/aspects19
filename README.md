@@ -1,6 +1,6 @@
 # Hello <img src= "./assets/gifs/hand-gif.gif" width=30> I'm Jeff
 
-<h4 align="center"> Telecommunication major passionate in cloud computing and Linux. <br/>
+<h4 align="center"> Computer Science major passionate in cloud computing and Linux. <br/>
    Open source software enthusiast.</h4>
 
 - 🔭 I'm currently working on [veedy](https://github.com/aspects19/veedy)
